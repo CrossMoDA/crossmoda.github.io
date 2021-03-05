@@ -31,7 +31,7 @@ subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
   # Background image.
   image = "banner_website.jpg"  # Name of image in `static/media/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
@@ -50,7 +50,7 @@ subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+<!-- ## 👋 Welcome to the Academic Template
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
@@ -84,3 +84,4 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 ## Get inspired
 
 [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
+ -->
