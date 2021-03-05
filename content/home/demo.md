@@ -40,7 +40,7 @@ subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "30px", "20px", "30px"]
+  padding = ["200px", "30px", "20px", "30px"]
 
 [advanced]
  # Custom CSS. 
