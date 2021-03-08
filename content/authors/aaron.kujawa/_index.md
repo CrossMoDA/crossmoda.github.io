@@ -10,7 +10,7 @@ weight: 20
 superuser: false
 
 # Role/position
-role: Data Pre-Processing, Data Curation
+role: Conceptual Design, Data Pre-Processing, Data Curation
 
 # Organizations/Affiliations
 organizations:

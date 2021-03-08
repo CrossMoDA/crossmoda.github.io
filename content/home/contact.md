@@ -28,6 +28,9 @@ content:
   
 design:
   columns: '2'
+  #color: "rgb(226, 226, 226)"
   background:
-    text_color_light: false
+    text_color_light: true
+    color-background: "#fff"
+    #background-color: "#fff"
 ---
