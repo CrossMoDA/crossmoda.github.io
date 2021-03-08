@@ -1,0 +1,18 @@
+<footer class="site-footer">
+
+  <p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+    {{ with site.GetPage "privacy" }}
+      &nbsp;&middot;&nbsp; {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ else }}
+    &nbsp;&middot;&nbsp; 
+    <a  class="iubenda-white iubenda-embed" title="Privacy policy ">Privacy policy</a>
+    {{ end }}
+    {{ with site.GetPage "terms.md" }}
+      &nbsp;&middot;&nbsp; {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+    &nbsp;&middot;&nbsp; Powered by
+    <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> and
+    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>
+  </p>
+</footer>

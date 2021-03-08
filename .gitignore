@@ -6,3 +6,50 @@
 public/
 jsconfig.json
 node_modules/
+
+### Hugo ###
+# Generated files by hugo
+# /public/ # removed by Tom to ease deploying 
+/resources/_gen/
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+
+# Content from https://github.com/gohugoio/hugo/blob/master/.gitignore
+/hugo
+docs/public*
+/.idea
+hugo.exe
+*.test
+*.prof
+nohup.out
+cover.out
+*.swp
+*.swo
+.DS_Store
+*~
+vendor/*/
+*.bench
+*.debug
+coverage*.out
+
+dock.sh
+
+GoBuilds
+dist
+
+hugolib/hugo_stats.json
+resources/sunset.jpg
+
+vendor
+# end of content from https://github.com/gohugoio/hugo/blob/master/.gitignore
+
+
+### From Tom ###
+tmparchive
+# seems to be automatically computed
+go.sum

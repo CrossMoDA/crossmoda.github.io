@@ -9,7 +9,7 @@ title = "**Cross-Modality Domain Adaptation for Medical Image Segmentation**"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 #hero_media = "pituitaryusschematic.svg"
-hero_media = "banner_website.jpg"
+hero_media = "banner_website.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
