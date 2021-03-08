@@ -8,6 +8,8 @@ weight: 61  # Order that this section will appear.
 design:
   # Use a 1-column layout
   columns: "1"
+  background:
+    text_color_light: true
 ---
 
 Google Fonts is a typeface visualization service provided by Google Ireland Limited that allows this Application to incorporate content of this kind on its pages.

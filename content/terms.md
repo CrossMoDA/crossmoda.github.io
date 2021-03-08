@@ -58,5 +58,5 @@ We may revise these terms of service at any time without notice. By using the Se
 
 ## Acknowledgments
 
-This policy was created with the help of [GetTerms](https://getterms.io) and was last updated on November 10, 2020.
+This policy was created with the help of [GetTerms](https://getterms.io) and was last updated on March 8, 2021.
 

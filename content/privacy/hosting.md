@@ -7,6 +7,8 @@ weight: 70  # Order that this section will appear.
 design:
   # Use a 1-column layout
   columns: "1"
+  background:
+    text_color_light: true
 ---
 
 This type of service has the purpose of hosting Data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application.

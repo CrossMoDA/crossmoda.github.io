@@ -7,6 +7,8 @@ weight: 50  # Order that this section will appear.
 design:
   # Use a 1-column layout
   columns: "1"
+  background:
+    text_color_light: true
 ---
 
 This type of service allows this Application to distribute their content using servers located across different countries and to optimize their performance.

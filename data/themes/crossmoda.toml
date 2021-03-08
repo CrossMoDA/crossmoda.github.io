@@ -21,3 +21,6 @@ home_section_odd = "rgb(89, 10, 12)"
 
 link = "rgb(100, 0, 0)"
 link_hover = "rgb(226, 226, 226)"
+
+dark_link = "#bbdefb"
+dark_link_hover = "#bbdefb"

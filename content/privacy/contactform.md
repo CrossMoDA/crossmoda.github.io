@@ -8,6 +8,8 @@ weight: 40  # Order that this section will appear.
 design:
   # Use a 1-column layout
   columns: "1"
+  background:
+    text_color_light: true
 ---
 
 By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.

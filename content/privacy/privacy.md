@@ -8,6 +8,8 @@ weight: 10  # Order that this section will appear.
 design:
   # Use a 1-column layout
   columns: "1"
+  background:
+    text_color_light: true
 ---
 
 This web site ("Application") respects your privacy as much as reasonably possible. It does still collect some Personal Data from its Users.

@@ -1,5 +1,11 @@
-
 .dark .form-control {
-    color: #f8f8f2;
-    background-color: #920a04;
-}
+  color: #640000;
+  background-color: #f8f8f2;
+  }
+  .dark .form-control::placeholder {
+    color: #640000;
+    opacity: 1; }
+  .dark .form-control:focus {
+    background-color: #e9ecef;
+    border-color: #e2231a;
+    box-shadow: 0 0 0 0.2rem #b41c15; }

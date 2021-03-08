@@ -9,12 +9,12 @@ design:
   # Use a 1-column layout
   columns: "1"
   background:
-    text_color_light: true
+     text_color_light: true
 ---
 
-The services provided by netlify.com are used as a hosting provider. 
+The services provided by netlify.com are used as a hosting provider for crossMoDA www.crosmoda-challenge.ml. Their privacy policy can be read in the following link: netlify.com privacy policy(https://www.netlify.com/privacy/) 
 
-Personal Data processed: various types of Data as specified in the [privacy policy](https://www.netlify.com/privacy/) of the service.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
 
 Place of processing: United States – Privacy Policy.
 

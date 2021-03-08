@@ -7,6 +7,8 @@ weight: 20  # Order that this section will appear.
 design:
   # Use a 1-column layout
   columns: "1"
+  background:
+    text_color_light: true
 ---
 
 ## Types of Data collected

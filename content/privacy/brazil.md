@@ -7,6 +7,8 @@ weight: 22  # Order that this section will appear.
 design:
   # Use a 1-column layout
   columns: "1"
+  background:
+    text_color_light: true
 ---
 
 This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the entity running this Application and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
