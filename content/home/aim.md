@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Cross-Modality Domain Adaptation for Medical Image Segmentation"
-subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
+title = "Aim"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,18 +29,18 @@ subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "banner_website.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image = "banner_website.jpg"  # Name of image in `static/media/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "30px", "200px", "30px"]
+  padding = ["30px", "30px", "30px", "30px"]
 
 [advanced]
  # Custom CSS. 
@@ -49,25 +49,15 @@ subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
  # CSS class.
  css_class = ""
 +++
+Domain Adaptation (DA) has recently raised strong interests in the medical imaging community. By encouraging algorithms to be robust to unseen situations or different input data domains, Domain Adaptation improves the applicability of machine learning approaches to various clinical settings. While a large variety of DA techniques has been proposed for image segmentation, most of these techniques have been validated either on private datasets or on small publicly available datasets. Moreover, these datasets mostly address single-class problems. To tackle these limitations, the crossMoDA challenge introduces the first large and multi-class dataset for unsupervised cross-modality Domain Adaptation. 
+
+<!-- This challenge proposes the first medical imaging benchmark of unsupervised cross-modality Domain Adaptation approaches (from ceT1 to hrT2).   -->
 
 
 
 
 
 
-
-## 👋 [Training Data](https://wowchemy.com/docs/update/)
-
-##
-
-##
-
-
-## 💡 [Submit Data](https://wowchemy.com/docs/update/)
-
-## 
-
-## 
 
 
 

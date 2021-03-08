@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-title = "Cross-Modality Domain Adaptation for Medical Image Segmentation"
-subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
+title = "Rules"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,18 +29,18 @@ subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "banner_website.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image = "banner_website.jpg"  # Name of image in `static/media/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "30px", "200px", "30px"]
+  padding = ["30px", "30px", "30px", "30px"]
 
 [advanced]
  # Custom CSS. 
@@ -49,25 +49,19 @@ subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
  # CSS class.
  css_class = ""
 +++
+1. No additional data is allowed, including the data released on TCIA.
+2. No additionnal annotations is allowed.
+3. Models can be adapted (trained) on the target domain (using the provided target training set) in an unsupervised way, i.e. without labels.
+4. The participant teams will be required to release their training and testing code and **explain how they fine-tuned their hyper-parameters**.
+5. the top 3 ranked teams will be required to submit their training and testing codes in a docker container for verification after the challenge submission deadline in order to ensure that the challenge rules have been respected.
+
+<!-- This challenge proposes the first medical imaging benchmark of unsupervised cross-modality Domain Adaptation approaches (from ceT1 to hrT2).   -->
 
 
 
 
 
 
-
-## 👋 [Training Data](https://wowchemy.com/docs/update/)
-
-##
-
-##
-
-
-## 💡 [Submit Data](https://wowchemy.com/docs/update/)
-
-## 
-
-## 
 
 
 

@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 35  # Order that this section will appear.
 
-title = "Cross-Modality Domain Adaptation for Medical Image Segmentation"
-subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
+title = "Evaluation"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,18 +29,18 @@ subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "banner_website.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image = "banner_website.jpg"  # Name of image in `static/media/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "30px", "200px", "30px"]
+  padding = ["30px", "30px", "30px", "30px"]
 
 [advanced]
  # Custom CSS. 
@@ -49,25 +49,17 @@ subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
  # CSS class.
  css_class = ""
 +++
+Classical semantic segmentation metrics, in this case the Dice Score (DSC) and a Average Symmetric Surface Distance(ASSD), will be used to assess different aspects of the performance of region of interest. These metrics are implemented [here](https://loli.github.io/medpy/metric.html).  The metrics (DSC, ASSD) were chosen because of their simplicity, their popularity, their rank stability, and their ability to assess the accuracy of the predictions.
+
+Participating teams are ranked for each **target** testing subjects, for each evaluated region (i.e., VS and cochlea), and for each measure (i.e., DSC and ASSD). The final ranking score for each team is then calculated by firstly averaging across all these individual rankings for each patient (i.e., Cumulative Rank), and then averaging these cumulative ranks across all patients for each participating team. 
+
+<!-- This challenge proposes the first medical imaging benchmark of unsupervised cross-modality Domain Adaptation approaches (from ceT1 to hrT2).   -->
 
 
 
 
 
 
-
-## 👋 [Training Data](https://wowchemy.com/docs/update/)
-
-##
-
-##
-
-
-## 💡 [Submit Data](https://wowchemy.com/docs/update/)
-
-## 
-
-## 
 
 
 

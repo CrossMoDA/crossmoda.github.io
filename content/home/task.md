@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
-title = "Cross-Modality Domain Adaptation for Medical Image Segmentation"
-subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
+title = "Task"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,18 +29,18 @@ subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "banner_website.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image = "banner_website.jpg"  # Name of image in `static/media/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "30px", "200px", "30px"]
+  padding = ["30px", "30px", "30px", "30px"]
 
 [advanced]
  # Custom CSS. 
@@ -49,25 +49,17 @@ subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
  # CSS class.
  css_class = ""
 +++
+The goal of the challenge is to segment two key brain structures involved in the follow-up and treatment planning of vestibular schwannoma (VS): the tumour and the cochlea.  While contrast-enhanced T1 (ceT1) Magnetic Resonance Imaging (MRI) scans are commonly used for VS segmentation, recent work has demonstrated that high-resolution T2 (hrT2) imaging could be a reliable, safer, and lower-cost alternative to ceT1. For these reasons, we propose an unsupervised cross-modality challenge (from ceT1 to hrT2) that aims to automatically perform VS and cochlea segmentation on hrT2 scans. The training source and target sets are respectively unpaired annotated ceT1 and non-annotated hrT2 scans. 
+
+<p style="float: left;  text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;"><img src="media/T1_example.png" style="width: 100%">Source (contrast-enhanced T1)</p>
+<p style="float: right;  text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;"><img src="media/T2_example.png" style="width: 100%">Target (high resolution T2)</p>
+<!-- This challenge proposes the first medical imaging benchmark of unsupervised cross-modality Domain Adaptation approaches (from ceT1 to hrT2).   -->
 
 
 
 
 
 
-
-## 👋 [Training Data](https://wowchemy.com/docs/update/)
-
-##
-
-##
-
-
-## 💡 [Submit Data](https://wowchemy.com/docs/update/)
-
-## 
-
-## 
 
 
 
