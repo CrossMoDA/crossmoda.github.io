@@ -54,7 +54,7 @@ subtitle = ""
 All images were obtained on a 32-channel Siemens Avanto 1.5T scanner using a Siemens single-channel head coil:
 - Contrast-enhanced T1-weighted imaging was performed with an MPRAGE sequence with in-plane resolution of
 0.4×0.4 mm, in-plane matrix of 512×512, and slice thickness of 1.0 to 1.5 mm (TR=1900 ms, TE=2.97 ms, TI=1100 ms)
-- High-resolution T2-weighted imaging was performed with a 3D CISS or FIESTA sequence in-plane resolution of 0.5x0.5 mm, in-plane matrix of 384x384 or 448x448, and slice thickness of of 1.0 to 1.5 mm (TR=9.4 ms,
+- High-resolution T2-weighted imaging was performed with a 3D CISS or FIESTA sequence in-plane resolution of 0.5x0.5 mm, in-plane matrix of 384x384 or 448x448, and slice thickness of 1.0 to 1.5 mm (TR=9.4 ms,
 TE=4.23ms).
 
 All data will be made available online with a permissive copyright-license (CC-BY-SA 4.0), allowing for data to be shared, distributed and improved upon. All structures were manually segmented in consensus by the treating neurosurgeon and physicist using both the ceT1 and hrT2 images. To cite this data, please refer to https://doi.org/10.7937/TCIA.9YTJ-5Q73.
