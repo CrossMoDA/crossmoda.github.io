@@ -52,7 +52,7 @@ subtitle = ""
 1. No additional data is allowed, including the data released on TCIA.
 2. No additional annotations are allowed.
 3. Models can be adapted (trained) on the target domain (using the provided target training set) in an unsupervised way, i.e. without labels.
-4. The participant teams will be required to release their training and testing code and **explain how they fine-tuned their hyper-parameters**.
+4. The participant teams will be required to release their training and testing code and **explain how they fine-tuned their hyper-parameters**. Note that the code can be shared with the organisers only as a way to verify validity, and if needed, NDAs can be signed. 
 5. The top 3 ranked teams will be required to submit their training and testing codes in a docker container for verification after the challenge submission deadline in order to ensure that the challenge rules have been respected.
 
 <!-- This challenge proposes the first medical imaging benchmark of unsupervised cross-modality Domain Adaptation approaches (from ceT1 to hrT2).   -->
