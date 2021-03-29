@@ -59,11 +59,7 @@ TE=4.23ms).
 
 All data will be made available online with a permissive copyright-license (CC-BY-SA 4.0), allowing for data to be shared, distributed and improved upon. All structures were manually segmented in consensus by the treating neurosurgeon and physicist using both the ceT1 and hrT2 images. To cite this data, please refer to https://doi.org/10.7937/TCIA.9YTJ-5Q73.
 
-
-
-
-
-
+<p style="float: left;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><img src="media/dataset_split.svg" style="width: 100%"></p>
 
 
 
