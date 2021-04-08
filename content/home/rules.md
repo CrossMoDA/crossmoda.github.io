@@ -51,11 +51,11 @@ subtitle = ""
 +++
 1. No additional data is allowed, including the data released on TCIA and pre-trained models.
 The use of a generic brain atlas is tolerated as long as its use is made clear and justified.     
-Examples of tolerated use cases include:
+Example of tolerated use cases:
     - Spatial normalisation to MNI space
     - Use of classical single-atlas based tools (e.g., SPM)
   
-    Example of cases that are not allowed:
+    Examples of cases that are not allowed:
     - Multi-atlas registration based approaches in the target domain
 2. No additional annotations are allowed.
 3. Models can be adapted (trained) on the target domain (using the provided target training set) in an unsupervised way, i.e. without labels.
