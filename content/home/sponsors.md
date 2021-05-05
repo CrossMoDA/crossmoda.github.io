@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
  
-<center> <p style="float: center;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="https://www.bana-uk.com/" > <center><img src="https://www.bana-uk.com/files/1915/8436/3609/Bana_Logo_smaller.jpg" style="width: 60%" class="center"></center> </a> BANA (British Acoustic Neuroma Association) sponsors a money prize of £100. </p> </center>
+<center> <p style="float: center;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="https://www.bana-uk.com/" > <center><img src="https://www.bana-uk.com/files/1915/8436/3609/Bana_Logo_smaller.jpg" style="width: 60%" class="center"></center> </a> BANA (British Acoustic Neuroma Association) sponsors a cash prize of £100. </p> </center>
 
 
 
