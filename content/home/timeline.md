@@ -76,7 +76,7 @@ subtitle = ""
   <td>Challenge results are announced at MICCAI 2021</td>
 </tr>
 <tr>
-  <td>30th November 2021 </td>
+  <td>30th November 2021: </td>
   <td>Participants are invited to submit their methods to the MICCAI 2021 <a href="http://www.brainlesion-workshop.org/" style="" target="_blank">BrainLes Workshop</a>. 
 </td></tr>
 <tr>

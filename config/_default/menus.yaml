@@ -22,15 +22,18 @@ main:
   - name: Evaluation
     url: '#evaluation'
     weight: 60
+  - name: Timeline
+    url: '#timeline'
+    weight: 70
   - name: Team
     url: '#people'
-    weight: 70
+    weight: 80
   - name: Sponsors
     url: '#sponsors'
-    weight: 80
+    weight: 90
   - name: Contact
     url: '#contact'
-    weight: 90
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
