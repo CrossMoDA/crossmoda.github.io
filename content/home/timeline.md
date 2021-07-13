@@ -64,11 +64,11 @@ subtitle = ""
   <td>Start of the <b>validation</b> period. Participants are invited to submit their predictions on the validation dataset (see&nbsp;&nbsp;<a href="https://crossmoda.grand-challenge.org/evaluation/challenge/submissions/create/" target="_blank">submission page</a>)</td>
 </tr>
 <tr>
-  <td>15th July 2021: </td>
+  <td><strike>15th July 2021</strike> 25th July 2021: </td>
   <td>Start of the&nbsp;<b><span style="">evaluation</span></b>&nbsp;period. Participants are invited to submit their predictions on the testing dataset (see&nbsp;&nbsp;<a href="https://crossmoda.grand-challenge.org/submission/" style="" target="_blank">submission page</a>)<br></td>
 </tr>
 <tr>
-  <td>3rd August 2021: </td>
+  <td><strike>3rd August 2021</strike> 13th August 2021:: </td>
   <td>End of the evaluation period </td>
 </tr>
 <tr>
