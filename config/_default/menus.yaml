@@ -25,15 +25,18 @@ main:
   - name: Timeline
     url: '#timeline'
     weight: 70
+  - name: Winners
+    url: '#winners'
+    weight: 80
   - name: Team
     url: '#people'
-    weight: 80
+    weight: 90
   - name: Sponsors
     url: '#sponsors'
-    weight: 90
+    weight: 100
   - name: Contact
     url: '#contact'
-    weight: 100
+    weight: 110
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

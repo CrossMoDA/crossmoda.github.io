@@ -39,10 +39,11 @@ hero_media = "banner_website.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-url = "https://crossmoda.grand-challenge.org/"
-label = "👋 Join the Challenge"
+url = "/results/"
+label = "👋 Results are out!"
 #   icon_pack = "fab"
 #   icon = "fab fa-trophy"
+
 
 #[cta_alt]
 #  url = "https://wowchemy.com"
