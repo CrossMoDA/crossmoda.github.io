@@ -69,7 +69,7 @@ header:
       <td>0.2936</td>
     </tr>
     <tr>
-      <td>epione-liryc</td>
+      <td>Epione-Liryc</td>
       <td>6</td>
       <td>0.7860</td>
       <td>2.0568</td>
@@ -101,7 +101,7 @@ header:
       <td>1.2663</td>
     </tr>
     <tr>
-      <td>smriti16109</td>
+      <td>smriti161096</td>
       <td>10</td>
       <td>0.7230</td>
       <td>2.9876</td>
@@ -196,7 +196,7 @@ header:
 ## #4 - MIP
 **Cross-Modality Domain Adaptation for Vestibular Schwannoma and Cochlea Segmentation**
 
-*JHan Liu; Yubo Fan; Can Cui; Dingjie Su; Andrew Mcneil; Benoit Dawant (Vanderbilt University)*
+*Han Liu; Yubo Fan; Can Cui; Dingjie Su; Andrew Mcneil; Benoit Dawant (Vanderbilt University)*
 
 [Paper](/media/papers/mip.pdf)
 
@@ -212,15 +212,15 @@ header:
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/612629142?h=fc6f6c3c64&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="PremiLab"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-## #6 - epione-liryc
+## #6 - Epione-Liryc
 **Cross-Modality Domain Adaptation for Vestibular Schwannoma and cochlea segmentation from high-resolution T2 MRI (Epione-Liryc team)**
 
 *Buntheng Ly; Victoriya Kashtanova; Yingyu Yang; Aurelien Maillot;
 Marta Nunez-Garcia; Maxime Sermesant (INRIA)*
 
-[Paper](/media/papers/epione-liryc.pdf)
+[Paper](/media/papers/Epione-Liryc.pdf)
 
-<div style="padding:53.44% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/612629365?h=3508eb3106&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="epione-liryc"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:53.44% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/612629365?h=3508eb3106&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Epione-Liryc"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## #7 - MedICL
 **Unsupervised Cross-modality Domain Adaptation for Segmentating Vestibular Schwannoma and Cochlea with Data Augmentation and Model Ensemble**
@@ -240,16 +240,7 @@ Marta Nunez-Garcia; Maxime Sermesant (INRIA)*
 
 <div style="padding:41.87% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/613779256?h=5cddfb45fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="crossMoDA_DBMI_Yanwu.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## #9 - MINDGap
-**Learning on MIND features and noisy labels from image registration**
-
-*Christian N Kruse; Mattias Heinrich (University of Luebeck)*
-
-[Paper](/media/papers/mindgap.pdf)
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/612628910?h=87b1582cfb&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="MIND"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-## #10 - Hi-Lib
+## #9 - Hi-Lib
 **A GANs-based Modality Fusion and Data Augmentation for CrossMoDA Challeng**
 
 *Jianghao Wu; Ran Gu; Shuwei Zhai; Wenhui Lei; Guotai Wang (University of Electronic Science and Technology of China)*
@@ -258,7 +249,7 @@ Marta Nunez-Garcia; Maxime Sermesant (INRIA)*
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/612628882?h=c69981ab27&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="HI-lib"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## #11 - smriti161096
+## #10 - smriti161096
 **nn-Unet Training on CycleGAN-translated images for cross-modal domain adaptation in biomedical imaging**
 
 *Smriti Joshi; Richard Osuala; Carlos Martın-Isla; Victor M. Campello; Carla
@@ -268,12 +259,21 @@ Sendra-Balcells; Karim Lekadir; Sergio Escalera (University of Barcelona)*
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/612628843?h=e4cc47fd9d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="smriti161096"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## #12 - IMI
+## #11 - IMI
 **MIND THE domain GAP: unsupervised modality independent deformable domain**
 
 *Lasse Hansen; Mattias Heinrich (University of Luebeck)*
 
 [Paper](/media/papers/imi.pdf)
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/612628910?h=87b1582cfb&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="MIND"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+## #12 - GapMIND
+**Learning on MIND features and noisy labels from image registration**
+
+*Christian N Kruse; Mattias Heinrich (University of Luebeck)*
+
+[Paper](/media/papers/mindgap.pdf)
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/612628910?h=87b1582cfb&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="MIND"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -287,7 +287,13 @@ Sendra-Balcells; Karim Lekadir; Sergio Escalera (University of Barcelona)*
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/613573293?h=52b63bfb44&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CMADAPresentation.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## #14 - skjp
+## #14 - SEU_chen
+**A Cascade nnUNet By Mini-Entropy Domain Adaptation On Segmentation of Tumor and Cochlea**
+
+*Chen Xiaofei (Southeast University)*
+
+
+## #15 - skjp
 **MIND THE domain GAP: unsupervised modality independent deformable domain**
 
 *Satoshi Kondo (Muroran Institute of Technology)*
@@ -296,12 +302,8 @@ Sendra-Balcells; Karim Lekadir; Sergio Escalera (University of Barcelona)*
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/612629444?h=a677808f30&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="skjp"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## #15 - SEU_chen
-**A Cascade nnUNet By Mini-Entropy Domain Adaptation On Segmentation of Tumor and Cochlea**
 
-*Chen Xiaofei (Southeast University)*
-
-## #15 - IRA
+## #16 - IRA
 **Comparing Unsupervised Domain Adaptation and Style-Transfer Methods in CrossMoDA Challenge**
 
 *Arseniy Belkov; Boris Shirokikh ; Mikhail Belyaev (Moscow Institute of Physics and Technology, Skolkovo Institute of Science and Technology)*
