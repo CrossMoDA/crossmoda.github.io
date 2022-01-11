@@ -30,6 +30,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% callout note %}}
+The crossMoDA paper has been submitted to Medical Image Analysis and is available on <a href="https://arxiv.org/pdf/2201.02831.pdf" target="_blank"> arXiv.</a>  </p>
+{{% /callout %}}
  
 
 {{% callout note %}}

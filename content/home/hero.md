@@ -39,21 +39,19 @@ hero_media = "banner_website.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-url = "/results/"
-label = "👋 Results are out!"
-#   icon_pack = "fab"
-#   icon = "fab fa-trophy"
+  url = "/results/"
+  label = "👋 Results are out!"
 
 
-#[cta_alt]
-#  url = "https://wowchemy.com"
-#  label = "View Documentation"
-#  icon_pack = "fab"
-#  icon = "fab fa-twitter"
+[cta_alt]
+  url = "https://arxiv.org/pdf/2201.02831.pdf"
+  label = "The crossMoDA paper is now on ArXiv"
+  icon_pack = "ai"
+  icon = "arxiv"
 
 # Note. An optional note to show underneath the links.
-#   [cta_note]
-#   label="👋 [Training Data](https://wowchemy.com/docs/update/)"
+# [cta_note]
+#  label="👋 [Training Data](https://wowchemy.com/docs/update/)"
 +++
 
 Unsupervised 3D Semantic Segmentation Domain Adaptation
