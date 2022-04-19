@@ -51,29 +51,30 @@ subtitle = ""
 +++
 
 <table class="table">
-<tbody><tr>
+<tbody>
+<!-- <tr>
   <td style="width: 200px;">26th March 2021: </td>
   <td>Registration is open!</td>
-</tr>
+</tr> -->
 <tr>
   <td>2nd May 2022: </td>
-  <td>Release of the training and validation data (see <a href="https://crossmoda2022.grand-challenge.org/Data/" target="_blank">data page</a>)</td>
+  <td>Release of the training and validation data. <!--(see <a href="https://crossmoda2022.grand-challenge.org/Data/" target="_blank">data page</a>)--></td>
 </tr>
 <tr>
   <td>12th May 2022:<br></td>
-  <td>Start of the <b>validation</b> period. Participants are invited to submit their predictions on the validation dataset (see&nbsp;&nbsp;<a href="https://crossmoda2022.grand-challenge.org/evaluation/challenge/submissions/create/" target="_blank">submission page</a>)</td>
+  <td>Start of the <b>validation</b> period. <!--Participants are invited to submit their predictions on the validation dataset (see&nbsp;&nbsp;<a href="https://crossmoda2022.grand-challenge.org/evaluation/challenge/submissions/create/" target="_blank">submission page</a>) --></td>
 </tr>
 <tr>
   <td>5th August 2022: </td>
-  <td>Start of the&nbsp;<b><span style="">evaluation</span></b>&nbsp;period. Participants are invited to submit their predictions on the testing dataset (see&nbsp;&nbsp;<a href="https://crossmoda2022.grand-challenge.org/submission/" style="" target="_blank">submission page</a>)<br></td>
+  <td>Start of the&nbsp;<b><span style="">evaluation</span></b>&nbsp;period. <!--Participants are invited to submit their predictions on the testing dataset (see&nbsp;&nbsp;<a href="https://crossmoda2022.grand-challenge.org/submission/" style="" target="_blank">submission page</a>)<br> --> </td> 
 </tr>
 <tr>
   <td>15th August 2022: </td>
-  <td>End of the evaluation period </td>
+  <td>End of the evaluation period. </td>
 </tr>
 <tr>
   <td>18th September 2022: </td>
-  <td>Challenge results are announced at MICCAI 2022</td>
+  <td>Challenge results are announced at MICCAI 2022.</td>
 </tr>
 <tr>
   <td>30th November 2022: </td>
@@ -81,7 +82,7 @@ subtitle = ""
 </td></tr>
 <tr>
   <td>December 2022: </td>
-  <td><p>Submission of a joint manuscript summarizing the results of the challenge to a high-impact journal in the field (e.g., TMI, MedIA)</p></td>
+  <td><p>Submission of a joint manuscript summarizing the results of the challenge to a high-impact journal in the field.</p></td>
 </tr>
 </tbody></table>
 
