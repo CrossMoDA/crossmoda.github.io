@@ -56,31 +56,31 @@ subtitle = ""
   <td>Registration is open!</td>
 </tr>
 <tr>
-  <td>5th April 2021: </td>
-  <td>Release of the training and validation data (see <a href="https://crossmoda.grand-challenge.org/Data/" target="_blank">data page</a>)</td>
+  <td>2nd May 2022: </td>
+  <td>Release of the training and validation data (see <a href="https://crossmoda2022.grand-challenge.org/Data/" target="_blank">data page</a>)</td>
 </tr>
 <tr>
-  <td>5th May 2021:<br></td>
-  <td>Start of the <b>validation</b> period. Participants are invited to submit their predictions on the validation dataset (see&nbsp;&nbsp;<a href="https://crossmoda.grand-challenge.org/evaluation/challenge/submissions/create/" target="_blank">submission page</a>)</td>
+  <td>12th May 2022:<br></td>
+  <td>Start of the <b>validation</b> period. Participants are invited to submit their predictions on the validation dataset (see&nbsp;&nbsp;<a href="https://crossmoda2022.grand-challenge.org/evaluation/challenge/submissions/create/" target="_blank">submission page</a>)</td>
 </tr>
 <tr>
-  <td><strike>15th July 2021</strike> 25th July 2021: </td>
-  <td>Start of the&nbsp;<b><span style="">evaluation</span></b>&nbsp;period. Participants are invited to submit their predictions on the testing dataset (see&nbsp;&nbsp;<a href="https://crossmoda.grand-challenge.org/submission/" style="" target="_blank">submission page</a>)<br></td>
+  <td>5th August 2022: </td>
+  <td>Start of the&nbsp;<b><span style="">evaluation</span></b>&nbsp;period. Participants are invited to submit their predictions on the testing dataset (see&nbsp;&nbsp;<a href="https://crossmoda2022.grand-challenge.org/submission/" style="" target="_blank">submission page</a>)<br></td>
 </tr>
 <tr>
-  <td><strike>3rd August 2021</strike> 13th August 2021:: </td>
+  <td>15th August 2022: </td>
   <td>End of the evaluation period </td>
 </tr>
 <tr>
-  <td>27th September 2021: </td>
-  <td>Challenge results are announced at MICCAI 2021</td>
+  <td>18th September 2022: </td>
+  <td>Challenge results are announced at MICCAI 2022</td>
 </tr>
 <tr>
-  <td>30th November 2021: </td>
-  <td>Participants are invited to submit their methods to the MICCAI 2021 <a href="http://www.brainlesion-workshop.org/" style="" target="_blank">BrainLes Workshop</a>. 
+  <td>30th November 2022: </td>
+  <td>Participants are invited to submit their methods to the MICCAI 2022 <a href="http://www.brainlesion-workshop.org/" style="" target="_blank">BrainLes Workshop</a>. 
 </td></tr>
 <tr>
-  <td>December 2021: </td>
+  <td>December 2022: </td>
   <td><p>Submission of a joint manuscript summarizing the results of the challenge to a high-impact journal in the field (e.g., TMI, MedIA)</p></td>
 </tr>
 </tbody></table>

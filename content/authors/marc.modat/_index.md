@@ -31,6 +31,6 @@ social:
 #highlight_name: false
 
 # Project groups that you belong to (for People widget)
-user_groups: [""]
+user_groups: ["Organising Team 2021"]
 ---
 

@@ -32,14 +32,19 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-The crossMoDA paper has been submitted to Medical Image Analysis and is available on <a href="https://arxiv.org/pdf/2201.02831.pdf" target="_blank"> arXiv.</a>  </p>
+A new classification task is introduced in the 2022 edition!
+{{% /callout %}}
+
+{{% callout note %}}
+The 2022 edition extends the segmentation task by including multi-institutional data!
 {{% /callout %}}
  
 
 {{% callout note %}}
-NVIDIA sponsors one <a href="https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090/" target="_blank"> NVIDIA RTX 3090</a> (24 GB - retail price: 1500$) for the challenge winner. </p>
+Challenge participants will have the opportunity to submit their methods as part of the post-conference MICCAI <a href="http://www.brainlesion-workshop.org/" target="_blank"> BrainLes 2022 </a> proceedings.
 {{% /callout %}}
 
-{{% callout note %}}
-Challenge participants will have the opportunity to submit their methods as part of the post-conference MICCAI <a href="http://www.brainlesion-workshop.org/" target="_blank"> BrainLes 2021 </a> proceedings.
-{{% /callout %}}
+<!-- {{% callout note %}}
+The crossMoDA 2021 paper has been submitted to Medical Image Analysis and is available on <a href="https://arxiv.org/pdf/2201.02831.pdf" target="_blank"> arXiv.</a>  </p>
+{{% /callout %}} -->
+ 

@@ -4,7 +4,7 @@
 
 # Display name
 title: Aaron Kujawa
-weight: 20
+weight: 12
 
 # Is this the primary user of the site?
 superuser: false
@@ -32,6 +32,6 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: [""]
+user_groups: ["Organising Team 2021", "Organising Team 2022"]
 ---
 

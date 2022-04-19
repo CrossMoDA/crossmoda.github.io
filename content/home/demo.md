@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Cross-Modality Domain Adaptation for Medical Image Segmentation"
-subtitle = "Unsupervised 3D Semantic Segmentation Domain Adaptation"
+title = "Cross-Modality Domain Adaptation for Medical Image Segmentation and Classification"
+subtitle = "Unsupervised 3D Semantic Segmentation and Classification Domain Adaptation"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

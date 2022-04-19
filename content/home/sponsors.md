@@ -49,11 +49,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-<center> <p style="float: center;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="https://www.nvidia.com/" > <center><img src="media/NVIDIA_Logo_V_ForScreen_ForLightBG.png" style="width: 40%" class="center"></center> </a> NVIDIA sponsors one <a href="https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090/" target="_blank"> NVIDIA RTX 3090</a> (24 GB - retail price: 1500$) for the challenge winner. </p> </center>
+TBA
+<!-- <center> <p style="float: center;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="https://www.nvidia.com/" > <center><img src="media/NVIDIA_Logo_V_ForScreen_ForLightBG.png" style="width: 40%" class="center"></center> </a> NVIDIA sponsors one <a href="https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090/" target="_blank"> NVIDIA RTX 3090</a> (24 GB - retail price: 1500$) for the challenge winner. </p> </center>
 
 <center> <p style="float: center;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="https://www.bana-uk.com/" > <center><img src="https://www.bana-uk.com/files/1915/8436/3609/Bana_Logo_smaller.jpg" style="width: 50%" class="center"></center> </a> BANA (British Acoustic Neuroma Association) sponsors a cash prize of £100. </p> </center>
-
+ -->
 
 
 

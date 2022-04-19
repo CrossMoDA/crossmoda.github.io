@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 85  # Order that this section will appear.
 
-title = "Winners of crossMoDA-2020 challenge "
+title = "Winners of crossMoDA-2021 challenge "
 subtitle = ""
 
 [design]
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Full leaderboard and description of the different proposed approaches [here](/results):
+Description of the top-performing 2021 teams are described here [here](/results):
 <table style="width:100%" class="table"> 
 <tbody><tr class="active"> <th>#</th> 
   <th>Team Name</th> 
