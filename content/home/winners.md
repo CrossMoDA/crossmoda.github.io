@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Description of the top-performing 2021 teams are described [here](/results):
+Methods of the top-performing 2021 teams are described [here](/results):
 <table style="width:100%" class="table"> 
 <tbody><tr class="active"> <th>#</th> 
   <th>Team Name</th> 

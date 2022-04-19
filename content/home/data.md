@@ -50,12 +50,15 @@ subtitle = ""
  css_class = ""
 +++
  
+### London data
 
-**London data**: All images were obtained on a 32-channel Siemens Avanto 1.5T scanner using a Siemens single-channel head coil:
+All images were obtained on a 32-channel Siemens Avanto 1.5T scanner using a Siemens single-channel head coil:
 - Contrast-enhanced T1-weighted imaging was performed with an MPRAGE sequence with in-plane resolution of 0.4×0.4mm, in-plane matrix of 512×512, and slice thickness of 1.0 to 1.5 mm (TR=1900 ms, TE=2.97 ms, TI=1100 ms)
 - High-resolution T2-weighted imaging was performed with a 3D CISS or FIESTA sequence in-plane resolution of 0.5x0.5mm, in-plane matrix of 384x384 or 448x448, and slice thickness of 1.0 to 1.5 mm (TR=9.4 ms, TE=4.23ms).
 
-**Tilburg data**: All images were obtained on a Philips Ingenia 1.5T scanner using a Philips quadrature head coil:
+### Tilburg data
+
+All images were obtained on a Philips Ingenia 1.5T scanner using a Philips quadrature head coil:
 - Contrast enhanced T1-weighted imaging was performed with a 3D-FFE sequence with in-plane resolution of 0.8×0.8mm, in-plane matrix of 256×256, and slice thickness of 1.5 mm (TR=25 ms, TE=1.82 ms).
 - High-resolution T2-weighted imaging was performed with a 3D-TSE sequence with in-plane resolution of 0.4x0.4mm, in-plane matrix of 512×512, and slice thickness of 1.0 mm (TR=2700 ms, TE=160 ms, ETL=50).
 
