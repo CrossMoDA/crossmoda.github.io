@@ -64,7 +64,7 @@ For this reason, we proposed an unsupervised cross-modality segmentation benchma
 The goal of the classification task (**Task 2**) is to automatically classify hrT2 images with VS according to the Koos grade. The Koos grading scale is a classification system for VS that characterises the tumour and its impact on adjacent brain structures (e.g., brain stem, cerebellum). The Koos classification is commonly determined to decide on the treatment plan (surveillance, radiosurgery, open surgery). Similarly to the VS segmentation, Koos grading is currently performed on ceT1 scans, but hrT2 could be used. For this reason, we propose an unsupervised cross-
 modality classification benchmark (from ceT1 to hrT2) that aims to determine the Koos grade on hrT2 scans automatically. Only pre-operative data is used for this task. Again, multi-institutional scans from centres in London, UK and Tilburg, NL are used in this task.
 
-<p style="float: left;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><img src="media/figure1_koos-scale.jpg" style="width: 100%"></p>
+<p style="float: left;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><img src="media/figure1_koos-scale.svg" style="width: 100%"></p>
 
 <!-- This challenge proposes the first medical imaging benchmark of unsupervised cross-modality Domain Adaptation approaches (from ceT1 to hrT2).   -->
 
