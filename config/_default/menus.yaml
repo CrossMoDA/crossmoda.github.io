@@ -8,7 +8,7 @@ main:
     url: '#hero'
     weight: 10
   - name: Aim
-    url: '#aim'
+    url: /home/#aim
     weight: 20
   - name: Task
     url: '#task'
@@ -37,6 +37,13 @@ main:
   - name: Contact
     url: '#contact'
     weight: 110
+  - name: 
+    #post: <span class='alert'>New!</span>
+    # pre:  <button type="button">Click Me!</button>  #<a href="/" class="btn btn-light btn-lg mb-3 mb-md-1">2021 website</a>
+    pre:   <span class="btn btn-primary d-none d-lg-inline-block mb-3 mb-md-0" style="padding:.15rem"><span>2021 website</span></span>
+    url: /challenge2021/
+    #url: /home_2021/
+    weight: 120
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
