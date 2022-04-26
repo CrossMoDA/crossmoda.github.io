@@ -36,9 +36,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXYYY
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=xdECLMkAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Marina-Ivory
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/marina-i-174297197
