@@ -49,6 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+*Participants are free to choose whether they want to focus only on one or both tasks.*
+
 ### Task 1: Vestibular schwannoma and cochlea segmentation
 
 The goal of the segmentation task (**Task 1**) is to segment two key brain structures (tumour and cochlea) involved in the follow-up and treatment planning of vestibular schwannoma (VS). The segmentation of these two structures is required for radiosurgery, a standard VS treatment. Moreover, tumour volume measurement has also been shown to be the most accurate measurement for evaluating VS growth. The diagnosis and surveillance in patients with VS are commonly performed using contrast-enhanced T1 (ceT1) MR imaging. However, there is growing interest in using non-contrast imaging sequences such as high-resolution T2 (hrT2) imaging, as it mitigates the risks associated with gadolinium-containing contrast agents. Furthermore, in addition to improving patient safety, hrT2 imaging is 10 times more cost-efficient than ceT1 imaging.

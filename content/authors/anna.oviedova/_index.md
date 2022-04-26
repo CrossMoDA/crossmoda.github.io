@@ -3,19 +3,19 @@
 #draft: true
 
 # Display name
-title: Marina Ivory
-weight: 2
+title: Anna Oviedova
+weight: 4
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Segmentation annotations
+role: Classification annotations
 
 # Organizations/Affiliations
 organizations:
-- name: King's College London, United Kingdom
-  url: "https://www.kcl.ac.uk/"
+- name: Charing Cross Hospital. Imperial College Healthcare NHS Trust, London United Kingdom
+  url: "https://www.imperial.nhs.uk/our-locations/charing-cross-hospital"
 
 # Education (not used for now)
 #education:
@@ -30,21 +30,12 @@ organizations:
 # Social/Academic Networking
 social:
 # Uncomment only if you want to show these on your profile (e.g. email)
-# - icon: envelope
-#   icon_pack: fas
-#   link: "mailto:reuben.dorent@kcl.ac.uk"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXYYY
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=xdECLMkAAAAJ
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/marina-i-174297197
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/ReubenDo
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/scholar?q=author:%22Oviedova%20Anna%22
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

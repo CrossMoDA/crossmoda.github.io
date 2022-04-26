@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
- 
+*Participants are free to use the data from one task for the other task.*
 ### London data
 
 All images were obtained on a 32-channel Siemens Avanto 1.5T scanner using a Siemens single-channel head coil:

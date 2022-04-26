@@ -3,19 +3,21 @@
 #draft: true
 
 # Display name
-title: Marina Ivory
-weight: 2
+title: Steve Connor
+weight: 1
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Segmentation annotations
+role: Classification annotations
 
 # Organizations/Affiliations
 organizations:
-- name: King's College London, United Kingdom
+- name: King’s College London, United Kingdom
   url: "https://www.kcl.ac.uk/"
+- name:  King's College Hospital NHS Foundation Trust, United Kingdom
+  url: "https://www.kch.nhs.uk/"
 
 # Education (not used for now)
 #education:
@@ -30,21 +32,12 @@ organizations:
 # Social/Academic Networking
 social:
 # Uncomment only if you want to show these on your profile (e.g. email)
-# - icon: envelope
-#   icon_pack: fas
-#   link: "mailto:reuben.dorent@kcl.ac.uk"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/XXXYYY
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=xdECLMkAAAAJ
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/marina-i-174297197
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/ReubenDo
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=mpyvQLEAAAAJ
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
