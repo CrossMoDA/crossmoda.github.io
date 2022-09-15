@@ -32,17 +32,17 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-A new classification task is introduced in the 2022 edition!
+NVIDIA sponsors one GPU for the winners of the Task 1. </p>
 {{% /callout %}}
 
 {{% callout note %}}
-The 2022 edition extends the segmentation task by including multi-institutional data!
+The crossMoDA paper has been accepted for publication in Medical Image Analysis!</a>  </p>
 {{% /callout %}}
+
+<!-- {{% callout note %}}
+The crossMoDA paper has been accepted has been accepted for publication in Medical Image Analysis and is available on <a href="https://arxiv.org/pdf/2201.02831.pdf" target="_blank"> arXiv.</a>  </p>
+{{% /callout %}} -->
  
-
-{{% callout note %}}
-Challenge participants will have the opportunity to submit their methods as part of the post-conference MICCAI <a href="http://www.brainlesion-workshop.org/" target="_blank"> BrainLes 2022 </a> proceedings.
-{{% /callout %}}
 
 <!-- {{% callout note %}}
 The crossMoDA 2021 paper has been submitted to Medical Image Analysis and is available on <a href="https://arxiv.org/pdf/2201.02831.pdf" target="_blank"> arXiv.</a>  </p>
