@@ -40,7 +40,7 @@ hero_media = "banner_website.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/results_2022/"
-  label = "👋 Results are out!"
+  label = "👋 2022: Results are out!"
 
 
 [cta_alt]
