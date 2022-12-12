@@ -39,7 +39,7 @@ hero_media = "banner_website.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/results/"
+  url = "/results_2021/"
   label = "👋 Results are out!"
 
 

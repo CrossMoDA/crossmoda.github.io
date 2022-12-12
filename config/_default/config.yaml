@@ -7,6 +7,14 @@ title: crossMoDA # Website name
 baseurl: 'htpps://crossmoda-challenge.ml' # Website URL
 copyright: '&copy; {year} -- crossMoDA' # Footer text, e.g. '© {year} Me'
 
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+
+
 ############################
 ## LANGUAGE
 ############################

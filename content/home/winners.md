@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Methods of the top-performing 2021 teams are described [here](/results):
+Methods of the top-performing 2022 teams are described [here](/results_2022):
 <table style="width:100%" class="table"> 
 <tbody><tr class="active"> <th>#</th> 
   <th>Team Name</th> 
@@ -60,24 +60,25 @@ Methods of the top-performing 2021 teams are described [here](/results):
 </tr> 
 <tr> 
   <td>1</td> 
-  <td>Samoyed</td> 
-  <td>Yonsei University</td> 
-  <td>83.9​ </td> 
-  <td><a href="/media/papers/samoyed.pdf">Self-Training Based Unsupervised Cross-Modality Domain Adaptation for Vestibular Schwannoma and Cochlea Segmentation</a></td> 
+  <td>ne2e</td> 
+  <td>Peking University, Beijing, China</td> 
+  <td>86.9​ </td> 
+  <td><a href="/media/papers_2022/ne2e.pdf">Unsupervised Domain Adaptation in Semantic Segmentation Based on Pixel Alignment and Self-Training (PAST)</a></td> 
 </tr>
 <tr> 
   <td> 2 </td> 
-  <td>PKU_BIALAB</td> 
-  <td>Peking University</td> 
-  <td>83.4​</td> 
-  <td><a href="/media/papers/pku_bialab.pdf">Unsupervised Domain Adaptation in Semantic Segmentation Based on Pixel Alignment and Self-Training (PAST)</a></td> 
+  <td>MAI</td> 
+  <td>Korea University, Korea</td> 
+  <td>86.8​</td> 
+  <td><a href="/media/papers_2022/mai.pdf">Multi-view Cross-Modality MR Image Translation for Vestibular Schwannoma and Cochlea Segmentation
+</a></td> 
 </tr> 
   <tr> 
   <td> 3 </td> 
-  <td> jwc-rad​</td> 
-  <td>Seoul National University</td>
-   <td>82.5​</td>
-   <td><a href="/media/papers/jwc-rad.pdf">Using Out-of-the-Box Frameworks for Unpaired Image Translation and Image Segmentation for the crossMoDA Challenge</a></td> 
+  <td>LaTIM​</td> 
+  <td>Inserm, France</td>
+   <td>85.9​</td>
+   <td><a href="/media/papers_2022/latim.pdf">Tumor blending augmentation using one-shot generative learning for vestibular schwannoma and cochlea cross-modal segmentation</a></td> 
 </tr> 
 </tr> 
 </tbody></table>

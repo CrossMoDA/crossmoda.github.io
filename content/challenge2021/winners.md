@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Full leaderboard and description of the different proposed approaches [here](/results):
+Full leaderboard and description of the different proposed approaches [here](/results_2021):
 <table style="width:100%" class="table"> 
 <tbody><tr class="active"> <th>#</th> 
   <th>Team Name</th> 
