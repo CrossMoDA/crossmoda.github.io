@@ -16,7 +16,6 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
   # Email form provider
   form:
     provider: netlify
@@ -25,7 +24,19 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-  
+    #netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      #captcha: true
+    contact_links:
+      - icon: github
+        icon_pack: fab
+        name: Find us on GitHub
+        link: https://github.com/CrossMoDA/
+      - icon: vimeo
+        icon_pack: fab
+        name: Find us on Vimeo
+        link: 'https://vimeo.com/user151973995'
+
 design:
   columns: '2'
   #color: "rgb(226, 226, 226)"
