@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 85  # Order that this section will appear.
 
-title = "Winners of crossMoDA-2021 challenge "
+title = "Winners of crossMoDA-2022 challenge "
 subtitle = ""
 
 [design]
@@ -50,7 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Methods of the top-performing 2022 teams are described [here](/results_2022):
+Methods of the top-performing 2022 teams are described [here](/results_2022).
+
+## Task 1: Segmentation
 <table style="width:100%" class="table"> 
 <tbody><tr class="active"> <th>#</th> 
   <th>Team Name</th> 
@@ -79,6 +81,41 @@ Methods of the top-performing 2022 teams are described [here](/results_2022):
   <td>Inserm, France</td>
    <td>85.9​</td>
    <td><a href="/media/papers_2022/latim.pdf">Tumor blending augmentation using one-shot generative learning for vestibular schwannoma and cochlea cross-modal segmentation</a></td> 
+</tr> 
+</tr> 
+</tbody></table>
+
+## Task 2: Koos Classification
+<table style="width:100%" class="table"> 
+<tbody><tr class="active"> <th>#</th> 
+  <th>Team Name</th> 
+  <th>Affiliation</th> 
+  <th>MA-MAE</th> 
+  <th>Technical report</th>
+</tr> 
+<tr> 
+  <td>1</td> 
+  <td>SJTU_EIEE_2</td> 
+  <td>Shanghai Jiao Tong University, China</td> 
+  <td>0.26 </td> 
+  <td><a href="/media/papers_2022/SJTU_EIEE.pdf">Koos Classification of Vestibular Schwannoma via Image
+Translation-Based Unsupervised Cross-Modality Domain
+Adaptation</a></td> 
+</tr>
+<tr> 
+  <td> 2 </td> 
+  <td>Super Polymerization </td> 
+  <td>Radboud University, the Netherlands</td> 
+  <td>0.37​</td> 
+  <td><a href="/media/papers_2022/superpolymerization.pdf">Unsupervised Cross-Modality Domain Adaptation for Vestibular Schwannoma Segmentation and Koos Grade Prediction based on Semi-Supervised Contrastive Learning
+</a></td> 
+</tr> 
+  <tr> 
+  <td> 3 </td> 
+  <td>skjp</td> 
+  <td>Muroran Institute of Technology, Japan</td>
+   <td>0.84​</td>
+   <td><a href="/media/papers_2022/skjp.pdf">Unsupervised Domain Adaptation for MRI Volume Segmentation and Classification Using Image-to-Image Translation</a></td> 
 </tr> 
 </tr> 
 </tbody></table>
