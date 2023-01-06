@@ -124,6 +124,13 @@ favourable direction of each metric.
 
 [Paper](/media/papers_2022/mbzuai_vs.pdf)
 
+## #9 - HUST_CBIB
+**An Unpaired Cross-modality Segmentation Framework Using Data Augmentation and Hybrid Convolutional Networks for Segmenting Vestibular Schwannoma and Cochlea**
+
+*Yuzhou Zhuang; Hong Liu; Enmin Song; Coskun Cetinkaya; Chih-Cheng Hung (Huazhong University of Science and Technology, Wuhan, China)*
+
+[Paper](/media/papers_2022/hust_cbib.pdf)
+
 ## #10 - skjp
 **Unsupervised Domain Adaptation for MRI Volume Segmentation and Classification Using Image-to-Image Translation**
 
