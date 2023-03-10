@@ -31,6 +31,6 @@ social:
 #highlight_name: false
 
 # Project groups that you belong to (for People widget)
-user_groups: ["Organising Team 2022"]
+user_groups: ["Organising Team 2022",  "Data and Annotation 2023"]
 ---
 

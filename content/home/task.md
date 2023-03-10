@@ -49,24 +49,33 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-*Participants are free to choose whether they want to focus only on one or both tasks.*
+<!-- *Participants are free to choose whether they want to focus only on one or both tasks.* -->
 
-### Task 1: Vestibular schwannoma and cochlea segmentation
+### Task: Intra- and extra-meatal vestibular schwannoma and cochlea segmentation
 
-The goal of the segmentation task (**Task 1**) is to segment two key brain structures (tumour and cochlea) involved in the follow-up and treatment planning of vestibular schwannoma (VS). The segmentation of these two structures is required for radiosurgery, a standard VS treatment. Moreover, tumour volume measurement has also been shown to be the most accurate measurement for evaluating VS growth. The diagnosis and surveillance in patients with VS are commonly performed using contrast-enhanced T1 (ceT1) MR imaging. However, there is growing interest in using non-contrast imaging sequences such as high-resolution T2 (hrT2) imaging, as it mitigates the risks associated with gadolinium-containing contrast agents. Furthermore, in addition to improving patient safety, hrT2 imaging is 10 times more cost-efficient than ceT1 imaging.
+The goal of the segmentation task is to segment two key brain structures (tumour and cochlea) involved in the follow-up and treatment planning of vestibular schwannoma (VS). The segmentation of these tumour and cochlea structures is required for radiosurgery, a common VS treatment, and is also key to improve routine surveillance. Anatomically, the tumour region can be divided into two sub regions, called intra- and extra-meatal regions, corresponding to being inside or outside the inner ear canal respectively. The guidelines for reporting results in vestibular schwannoma mention that the intra-meatal and extra-meatal portions of the tumour must be distinguished, and the largest extra-meatal diameter should be used to report the size of the tumour. Moreover, the size and volume features extracted from the extra-meatal region are considered as the most sensitive radiomic features for the evaluation of VS growth. The diagnosis and surveillance in patients with VS are commonly performed using contrast-enhanced T1 (ceT1) MR imaging. However, there is growing interest in using non-contrast imaging sequences such as high-resolution T2 (hrT2) imaging, as it mitigates the risks associated with gadolinium-containing contrast agents. 
 
-For this reason, we proposed an unsupervised cross-modality segmentation benchmark (from ceT1 to hrT2) that aims to perform VS and cochlea segmentation on hrT2 scans automatically. The training source and target sets are respectively unpaired annotated ceT1 and non-annotated hrT2 scans from both pre-operative and post-operative time points. To validate the robustness of the proposed approaches on different hrT2 settings, multi-institutional scans from centres in London, UK and Tilburg, NL are used in this task.
+
+For this reason, we proposed an unsupervised cross-modality segmentation benchmark (from ceT1 to hrT2) that aims to perform the intra- and extra-meatal regions of VS and cochlea segmentation on hrT2 scans automatically. The training source and target sets are respectively unpaired annotated ceT1 and non-annotated hrT2 scans from both pre-operative and post-operative time points. To validate the robustness of the proposed approaches on different T2 settings, multi-institutional, heterogeneous scans from centres in the UK and Tilburg, NL are used in this task.
+
+
+
+
+
+<!-- The goal of the segmentation task (**Task 1**) is to segment two key brain structures (tumour and cochlea) involved in the follow-up and treatment planning of vestibular schwannoma (VS). The segmentation of these two structures is required for radiosurgery, a standard VS treatment. Moreover, tumour volume measurement has also been shown to be the most accurate measurement for evaluating VS growth. The diagnosis and surveillance in patients with VS are commonly performed using contrast-enhanced T1 (ceT1) MR imaging. However, there is growing interest in using non-contrast imaging sequences such as high-resolution T2 (hrT2) imaging, as it mitigates the risks associated with gadolinium-containing contrast agents. Furthermore, in addition to improving patient safety, hrT2 imaging is 10 times more cost-efficient than ceT1 imaging.
+
+For this reason, we proposed an unsupervised cross-modality segmentation benchmark (from ceT1 to hrT2) that aims to perform VS and cochlea segmentation on hrT2 scans automatically. The training source and target sets are respectively unpaired annotated ceT1 and non-annotated hrT2 scans from both pre-operative and post-operative time points. To validate the robustness of the proposed approaches on different hrT2 settings, multi-institutional scans from centres in London, UK and Tilburg, NL are used in this task. -->
 
 
 <p style="float: left;  text-align: center; width: 48%; margin-right: 1%; margin-bottom: 0.5em;"><img src="media/T1_example.png" style="width: 100%">Source (contrast-enhanced T1)</p>
 <p style="float: right;  text-align: center; width: 48%; margin-right: 1%; margin-bottom: 0.5em;"><img src="media/T2_example.png" style="width: 100%">Target (high resolution T2)</p>
-
+<!-- 
 ### Task 2: Koos classification
 
-The goal of the classification task (**Task 2**) is to automatically classify hrT2 images with VS according to the Koos grade. The Koos grading scale is a classification system for VS that characterises the tumour and its impact on adjacent brain structures (e.g., brain stem, cerebellum). The Koos classification is commonly determined to decide on the treatment plan (surveillance, radiosurgery, open surgery). Similarly to the VS segmentation, Koos grading is currently performed on ceT1 scans, but hrT2 could be used. For this reason, we propose an unsupervised cross-
-modality classification benchmark (from ceT1 to hrT2) that aims to determine the Koos grade on hrT2 scans automatically. Only pre-operative data is used for this task. Again, multi-institutional scans from centres in London, UK and Tilburg, NL are used in this task.
+<!-- The goal of the classification task (**Task 2**) is to automatically classify hrT2 images with VS according to the Koos grade. The Koos grading scale is a classification system for VS that characterises the tumour and its impact on adjacent brain structures (e.g., brain stem, cerebellum). The Koos classification is commonly determined to decide on the treatment plan (surveillance, radiosurgery, open surgery). Similarly to the VS segmentation, Koos grading is currently performed on ceT1 scans, but hrT2 could be used. For this reason, we propose an unsupervised cross-
+modality classification benchmark (from ceT1 to hrT2) that aims to determine the Koos grade on hrT2 scans automatically. Only pre-operative data is used for this task. Again, multi-institutional scans from centres in London, UK and Tilburg, NL are used in this task. -->
 
-<p style="float: left;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><img src="media/figure1_koos-scale.svg" style="width: 100%"></p>
+<!-- <p style="float: left;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><img src="media/figure1_koos-scale.svg" style="width: 100%"></p> --> -->
 
 <!-- This challenge proposes the first medical imaging benchmark of unsupervised cross-modality Domain Adaptation approaches (from ceT1 to hrT2).   -->
 

@@ -49,13 +49,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-### Task 1: Vestibular schwannoma and cochlea segmentation
 Classical semantic segmentation metrics, in this case, the Dice Score (DSC) and the Average Symmetric Surface Distance (ASSD), will be used to assess different aspects of the performance of the region of interest. These metrics are implemented [here](https://loli.github.io/medpy/metric.html).  The metrics (DSC, ASSD) were chosen because of their simplicity, their popularity, their rank stability, and their ability to assess the accuracy of the predictions.
 
-Participating teams are ranked for each **target** testing subject, for each evaluated region (i.e., VS and cochlea), and for each measure (i.e., DSC and ASSD). The final ranking score for each team is then calculated by firstly averaging across all these individual rankings for each patient (i.e., Cumulative Rank), and then averaging these cumulative ranks across all patients for each participating team. 
+Participating teams are ranked for each **target** testing subject, for each evaluated region (i.e., iIntra-meatal VS, extra-meatal VS and cochlea), and for each measure (i.e., DSC and ASSD). The final ranking score for each team is then calculated by firstly averaging across all these individual rankings for each patient (i.e., Cumulative Rank), and then averaging these cumulative ranks across all patients for each participating team. 
 
-### Task 2: Koos classification
-Participating teams are ranked based on their Macro-averaged mean absolute error (MA-MAE). Macro-averaged mean absolute error is well-designed for ordinal and imbalanced classification problems. It has been used successfully in other challenges such as SemEval-2017.
 
 <!-- This challenge proposes the first medical imaging benchmark of unsupervised cross-modality Domain Adaptation approaches (from ceT1 to hrT2).   -->
 

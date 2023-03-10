@@ -50,13 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 *Participants are free to use the data from one task for the other task.*
-### London data
+### London SC-GK data
 
 All images were obtained on a 32-channel Siemens Avanto 1.5T scanner using a Siemens single-channel head coil:
 - Contrast-enhanced T1-weighted imaging was performed with an MPRAGE sequence with in-plane resolution of 0.4×0.4mm, in-plane matrix of 512×512, and slice thickness of 1.0 to 1.5 mm (TR=1900 ms, TE=2.97 ms, TI=1100 ms)
 - High-resolution T2-weighted imaging was performed with a 3D CISS or FIESTA sequence in-plane resolution of 0.5x0.5mm, in-plane matrix of 384x384 or 448x448, and slice thickness of 1.0 to 1.5 mm (TR=9.4 ms, TE=4.23ms).
 
-### Tilburg data
+### Tilburg SC-GK data
 
 All images were obtained on a Philips Ingenia 1.5T scanner using a Philips quadrature head coil:
 - Contrast enhanced T1-weighted imaging was performed with a 3D-FFE sequence with in-plane resolution of 0.8×0.8mm, in-plane matrix of 256×256, and slice thickness of 1.5 mm (TR=25 ms, TE=1.82 ms).
@@ -64,7 +64,12 @@ All images were obtained on a Philips Ingenia 1.5T scanner using a Philips quadr
 
 All data will be made available online with a permissive non-commercial copyright-license ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)), allowing for data to be shared, distributed and improved upon.  All structures were manually segmented in consensus by the treating neurosurgeon and physicist using both the ceT1 and hrT2 images. To cite this data, please refer to https://arxiv.org/abs/2201.02831.
 
-<p style="float: left;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><img src="media/dataset_split.svg" style="width: 100%"></p>
+### UK MC-RC data:
+
+Images were obtained on various scanners from SIEMENS, Philips, General Electrics, Hitachi MRI scanners with the magnetic field strengths 1.0T/1.5T/3.0T. Slice thickness, voxel volume and intensities vary significantly across all ceT1 weighted and T2 weighted imaging (see [here](https://www.medrxiv.org/content/10.1101/2022.08.01.22278193v1.full.pdf) for more details).
+
+
+<p style="float: left;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><img src="media/dataset_description_2023.svg" style="width: 100%"></p>
 
 
 

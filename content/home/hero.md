@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "**Cross-Modality Domain Adaptation for Medical Image Segmentation and Classification**"
+title = "**Cross-Modality Domain Adaptation for Medical Image Segmentation**"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 #hero_media = "pituitaryusschematic.svg"
@@ -42,7 +42,6 @@ hero_media = "banner_website.png"
   url = "/results_2022/"
   label = "👋 2022: Results are out!"
 
-
 [cta_alt]
   url = "https://arxiv.org/pdf/2201.02831.pdf"
   label = "The crossMoDA 2021 paper is now on ArXiv"
@@ -54,4 +53,4 @@ hero_media = "banner_website.png"
 #  label="👋 [Training Data](https://wowchemy.com/docs/update/)"
 +++
 
-Unsupervised 3D Semantic Segmentation and Classification Domain Adaptation
+Unsupervised 3D Semantic Segmentation Domain Adaptation

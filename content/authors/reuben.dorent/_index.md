@@ -14,7 +14,7 @@ role: Leadership, Conceptual Design, Data Pre-Processing, Stats and Metrics Comm
 
 # Organizations/Affiliations
 organizations:
-- name: King's College London, United Kingdom
+- name: Harvard Medical School, USA
   url: "https://www.kcl.ac.uk/"
 
 # Education (not used for now)
@@ -51,5 +51,5 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Organising Team 2021", "Organising Team 2022"]
+user_groups: ["Organising Team 2021", "Organising Team 2022",  "Organising Team 2023"]
 ---

@@ -40,6 +40,6 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Organising Team 2021", "Organising Team 2022"]
+user_groups: ["Organising Team 2021", "Organising Team 2022",  "Organising Team 2023"]
 ---
 

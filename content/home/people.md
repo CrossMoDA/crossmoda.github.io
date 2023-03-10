@@ -14,7 +14,7 @@ title = "Team"
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   # user_groups = ["Organising Team "]
-  user_groups = ["Organising Team 2022", "Annotation Team"]
+  user_groups = ["Organising Team 2023", "Data and Annotation 2023"]
 
 [design]
   # Show user's social networking links? (true/false)

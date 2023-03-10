@@ -37,13 +37,46 @@ main:
   - name: Contact
     url: '#contact'
     weight: 110
-  - name: 
-    #post: <span class='alert'>New!</span>
-    # pre:  <button type="button">Click Me!</button>  #<a href="/" class="btn btn-light btn-lg mb-3 mb-md-1">2021 website</a>
-    pre:   <span class="btn btn-primary d-none d-lg-inline-block mb-3 mb-md-0" style="padding:.15rem"><span>2021 website</span></span>
-    url: /challenge2021/
-    #url: /home_2021/
+  - identifier: previous
+    pre: <span class="btn btn-primary d-none d-lg-inline-block mb-3 mb-md-0" style="padding:.15rem"><span>Previous editions</span></span>
+    # name: Previous editions
     weight: 120
+  - identifier: edition2022
+    name: crossMoDA 2022
+    url: /challenge2022/
+    parent: previous
+    weight: 2
+  - identifier: edition2021
+    name: crossMoDA 2021 
+    url: /challenge2021/
+    parent: previous
+    weight: 3
+  # [[menu.main]]
+  #   identifier = "category1"
+  #   name = "Category1"
+  #   url = "/tags/category1"
+  #   parent = "category"
+  #   weight = 1
+  # [[menu.main]]
+  #   identifier = "category2"
+  #   name = "Category2"
+  #   url = "/tags/category2"
+  #   parent = "category"
+  #   weight = 2
+  # - name: 
+  #   #post: <span class='alert'>New!</span>
+  #   # pre:  <button type="button">Click Me!</button>  #<a href="/" class="btn btn-light btn-lg mb-3 mb-md-1">2021 website</a>
+  #   pre:   <span class="btn btn-primary d-none d-lg-inline-block mb-3 mb-md-0" style="padding:.15rem"><span>2022 website</span></span>
+  #   url: /challenge2022/
+  #   #url: /home_2021/
+  #   weight: 120
+  # # - name: 
+  #   #post: <span class='alert'>New!</span>
+  #   # pre:  <button type="button">Click Me!</button>  #<a href="/" class="btn btn-light btn-lg mb-3 mb-md-1">2021 website</a>
+  #   pre:   <span class="btn btn-primary d-none d-lg-inline-block mb-3 mb-md-0" style="padding:.15rem"><span>2021 website</span></span>
+  #   url: /challenge2021/
+  #   #url: /home_2021/
+  #   weight: 130
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

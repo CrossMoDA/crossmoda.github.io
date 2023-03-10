@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<center> <p style="float: center;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="https://www.nvidia.com/" > <center><img src="media/NVIDIA_logo.svg" style="width: 40%" class="center"></center> </a> NVIDIA sponsors one GPU award for the challenge winner. </p> </center>
+<!-- <center> <p style="float: center;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="https://www.nvidia.com/" > <center><img src="media/NVIDIA_logo.svg" style="width: 40%" class="center"></center> </a> NVIDIA sponsors one GPU award for the challenge winner. </p> </center> -->
 <!-- <center> <p style="float: center;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="https://www.nvidia.com/" > <center><img src="media/NVIDIA_Logo_V_ForScreen_ForLightBG.png" style="width: 40%" class="center"></center> </a> NVIDIA sponsors one <a href="https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090/" target="_blank"> NVIDIA RTX 3090</a> (24 GB - retail price: 1500$) for the challenge winner. </p> </center>
 
  -->
