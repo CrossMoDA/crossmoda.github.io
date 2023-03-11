@@ -10,7 +10,7 @@ weight: 3
 superuser: true
 
 # Role/position
-role: Classification annotations
+role: Annotations
 
 # Organizations/Affiliations
 organizations:

@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 14  # Order that this section will appear.
 
 title = "Announcements"
@@ -31,12 +31,12 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 NVIDIA sponsors one GPU for the winners of the Task 1. </p>
-{{% /callout %}}
+{{% /callout %}} -->
 
 {{% callout note %}}
-The crossMoDA paper has been accepted for publication in Medical Image Analysis!</a>  </p>
+The crossMoDA 2021 paper has been accepted for publication in Medical Image Analysis!</a>  </p>
 {{% /callout %}}
 
 <!-- {{% callout note %}}

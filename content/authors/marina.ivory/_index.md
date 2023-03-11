@@ -10,7 +10,7 @@ weight: 2
 superuser: true
 
 # Role/position
-role: Segmentation annotations
+role: Segmentation annotations, Data Curation
 
 # Organizations/Affiliations
 organizations:

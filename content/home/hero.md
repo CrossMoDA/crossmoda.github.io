@@ -43,8 +43,8 @@ hero_media = "banner_website.png"
   label = "👋 2022: Results are out!"
 
 [cta_alt]
-  url = "https://arxiv.org/pdf/2201.02831.pdf"
-  label = "The crossMoDA 2021 paper is now on ArXiv"
+  url = "https://doi.org/10.1016/j.media.2022.102628"
+  label = "The crossMoDA 2021 paper accepted in Medical Image Analysis!"
   icon_pack = "ai"
   icon = "arxiv"
 
