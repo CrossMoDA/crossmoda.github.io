@@ -57,11 +57,11 @@ subtitle = ""
   <td>Registration is open!</td>
 </tr> -->
 <tr>
-  <td>2nd April 2023: </td>
+  <td><strike>2nd April</strike> 15th April  2023: </td>
   <td>Release of the training and validation data. <!--(see <a href="https://crossmoda2022.grand-challenge.org/Data/" target="_blank">data page</a>)--></td>
 </tr>
 <tr>
-  <td>12th April 2023:<br></td>
+  <td><strike>12th April</strike> 27th April 2023:<br></td>
   <td>Start of the <b>validation</b> period. <!--Participants are invited to submit their predictions on the validation dataset (see&nbsp;&nbsp;<a href="https://crossmoda2022.grand-challenge.org/evaluation/challenge/submissions/create/" target="_blank">submission page</a>) --></td>
 </tr>
 <tr>
