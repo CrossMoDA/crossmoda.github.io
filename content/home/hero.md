@@ -39,8 +39,8 @@ hero_media = "banner_website.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/results_2022/"
-  label = "👋 2022: Results are out!"
+  url = "https://www.synapse.org/#!Synapse:syn51236108/wiki/"
+  label = "👋 Join crossMoDA 2023!"
 
 [cta_alt]
   url = "https://doi.org/10.1016/j.media.2022.102628"
