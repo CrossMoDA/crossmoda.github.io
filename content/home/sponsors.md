@@ -22,14 +22,14 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "lightpurple"
+  # color = "navy"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
   # gradient_end = "ForestGreen"
   
   # Background image.
-  # image = "banner_website.jpg"  # Name of image in `static/media/`.
+  # image = "banner_website.jpg"  # Name of image in `static/media_2021/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -49,10 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<!-- <center> <p style="float: center;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="https://www.nvidia.com/" > <center><img src="media/NVIDIA_logo.svg" style="width: 40%" class="center"></center> </a> NVIDIA sponsors one GPU award for the challenge winner. </p> </center> -->
-<!-- <center> <p style="float: center;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="https://www.nvidia.com/" > <center><img src="media/NVIDIA_Logo_V_ForScreen_ForLightBG.png" style="width: 40%" class="center"></center> </a> NVIDIA sponsors one <a href="https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090/" target="_blank"> NVIDIA RTX 3090</a> (24 GB - retail price: 1500$) for the challenge winner. </p> </center>
 
- -->
+<center> <p style="float: center;  text-align: center; width: 100%; margin-right: 1%; margin-bottom: 0.5em;"><a href="https://www.bana-uk.com/" > <center><img src="https://www.bana-uk.com/wp-content/uploads/2021/06/logo.svg" style="width: 50%" class="center"></center> </a> BANA (British Acoustic Neuroma Association) sponsors a prize. </p> </center>
+
 
 
 
